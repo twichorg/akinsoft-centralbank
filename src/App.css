@@ -2,37 +2,69 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.forexbuying {
+  cursor: pointer;
+  background-color: azure;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+input{
+  width: 30%;
+  height: 100%;
+  margin-bottom: 5px;
+  border-color: transparent;
+  background-color: rgb(223, 217, 217);
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(5, 5, 5);
+  cursor: pointer;
+  border-radius: 15px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.tableCell {
+background-color: antiquewhite;
 }
 
-.App-link {
-  color: #61dafb;
+.root{
+  font-family: 'Roboto Slab', serif;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.login-form {
+  max-width: 500px;
+  min-width: 300px;
+  max-height: 700px;
+  width: 30%;
+  height: 60%;
+  margin: 100px auto;
+  padding: 25px;
+  background-color: #ffebeb;
+  border-radius: 25px;
+}
+
+button {
+  width: 60%;
+  height: 100%;
+  margin-bottom: 5px;
+  border-color: transparent;
+  background-color: rgb(214, 31, 31);
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(5, 5, 5);
+  cursor: pointer;
+  border-radius: 15px;
+}
+
+.input-login {
+  width: 60%;
+  height: 100%;
+  margin-bottom: 5px;
+  border-color: transparent;
+  background-color: rgb(223, 217, 217);
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(5, 5, 5);
+  cursor: pointer;
+  border-radius: 15px;
 }
