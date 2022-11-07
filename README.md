@@ -1,3 +1,17 @@
+
+1. https://www.tcmb.gov.tr/kurlar/today.xml adresi, https://codebeautify.org/xmltojson web sitesi kullanılarak, json formatına convert edildi. 
+2. api klasörü içerisinde Data.json  oluşturuldu ve convert edilmiş json verileri eklendi.
+3. Pages klasörü içerisinde HomePage sayfası oluşturuldu.
+4. Components klasörü içerisinde DenseTable.jsx oluşturuldu ve jsondan aldıgımız veriler map yapıldı filtre eklendi 
+5. Büyükten küçüğe sıralama eklendi
+6. unit test eklendi
+7. login sayfası tasarlandı
+8. kullanıcı oluşturuldu admin admin
+9. authenticate olduktan sonra ana sayfaya yönlendirme eklendi
+10. route yapıldı
+11. Uzmanlık alanım front end olduğu için backend oluşturup jwt kontrollerini yapamadım, ön uç kısımdan yaptım. auth ve login işlemlerini.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
