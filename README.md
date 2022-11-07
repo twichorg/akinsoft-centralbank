@@ -9,7 +9,7 @@
 8. kullanıcı oluşturuldu admin admin
 9. authenticate olduktan sonra ana sayfaya yönlendirme eklendi
 10. route yapıldı
-11. Uzmanlık alanım front end olduğu için backend oluşturup jwt kontrollerini yapamadım, ön uç kısımdan yaptım. auth ve login işlemlerini.
+
 
 
 # Getting Started with Create React App
