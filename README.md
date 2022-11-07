@@ -1,4 +1,8 @@
 
+<h4> Akinsoft-CentralBank-Curreny-project(React, Rest API, Filter, Sort, Navigate) </h4>
+
+<a href="https://lustrous-praline-96c2e4.netlify.app/" target="blank"><img src="https://i.ibb.co/Z8bHYVC/Ekran-g-r-nt-s-2022-11-07-201850.png" ></a>
+
 1. https://www.tcmb.gov.tr/kurlar/today.xml adresi, https://codebeautify.org/xmltojson web sitesi kullanılarak, json formatına convert edildi. 
 2. api klasörü içerisinde Data.json  oluşturuldu ve convert edilmiş json verileri eklendi.
 3. Pages klasörü içerisinde HomePage sayfası oluşturuldu.
